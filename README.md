@@ -13,7 +13,7 @@ These specifications are designed to help achieve:
 ## Documentation
 
 - [**Overview**](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/overview.md)
-- [**Taxonomy Framework**](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/framework.md)
+- [**Taxonomies & Vocabularies**](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/framework.md)
 - [**Content Model**](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/content.md)
 - [**Collection Model**](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/collection.md)
 - [**Offline Package Specification**](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/ecar.md)
