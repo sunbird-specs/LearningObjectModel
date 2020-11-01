@@ -8,4 +8,4 @@ Content metadata comprises a hierarchy of elements (as shown in below figure). A
 
 Some of the elements may be repeated either individually or as a group. For example: there can be multiple "attributions" where each attribution is one value (string) and there can be multiple "target frameworks" where each target framework is a group of values (for board, medium, gradeLevel, etc).
 
-![Content Metadata Categories](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/images/ContentMetadataCategories.png)
+![Content Metadata Categories](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/images/ContentMetadataCategories1.png)
