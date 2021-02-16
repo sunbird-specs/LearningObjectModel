@@ -9,6 +9,8 @@ A learning object, as per IEEE, is "any entity, digital or non-digital, that may
 - [**Overview**](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/overview.md)
 - [**Taxonomies & Vocabularies**](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/framework.md)
 - [**Content Model**](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/content.md)
+	- [Schema](v1/schemas/content/1.0/schema.json)
 - [**Collection Model**](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/collection.md)
+	- [Schema](v1/schemas/collection/1.0/schema.json)
 - [**Offline Package Specification**](https://github.com/sunbird-specs/LearningObjectModel/blob/main/v1/ecar.md)
 
